@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Dinara</h1>
 <h3 align="center">A passionate Frontend developer from Kyrgyzstan</h3>
-<img align="right" width="450" alt="coding" src="[https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)"/>
+<img align="right" width="450" alt="coding" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stamkulova-dinara&label=Profile%20views&color=0e75b6&style=flat" alt="stamkulova-dinara" /> </p>
 
 - 🔭 I’m currently working on **Chat application**
