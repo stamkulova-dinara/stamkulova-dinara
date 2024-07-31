@@ -1,5 +1,3 @@
-![MasterHead](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-Is-Pair-Programming--1.png)
-
 <h1 align="center">Hi 👋, I'm Dinara</h1>
 <h3 align="center">A passionate Frontend developer from Kyrgyzstan</h3>
 <img align="right" width="450" alt="coding" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
