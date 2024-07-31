@@ -1,4 +1,4 @@
-![MasterHead]([https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Development-San-Francisco-1.jpeg](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-Is-Pair-Programming--1.png))
+![MasterHead](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-Is-Pair-Programming--1.png)
 
 <h1 align="center">Hi 👋, I'm Dinara</h1>
 <h3 align="center">A passionate Frontend developer from Kyrgyzstan</h3>
