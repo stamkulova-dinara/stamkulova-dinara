@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinara</h1>
-<h3 align="center">A passionate Frontend developer from Kyrgyzstan</h3>
-<img align="right" width="450" alt="coding" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
+<h3 align="center">Frontend developer</h3>
+<!-- <img align="right" width="450" alt="coding" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stamkulova-dinara&label=Profile%20views&color=0e75b6&style=flat" alt="stamkulova-dinara" /> </p>
 
 - ✉️  You can contact me at **dinarastamkulova4@gmail.com**
